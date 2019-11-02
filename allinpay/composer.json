@@ -1,0 +1,20 @@
+{
+    "name": "Tonglian/allinpay",
+    "description": "how to develop a laravel package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "huangjinbing",
+            "email": "373768442@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "ArcherWong\\LaraPackage": "src/"
+        }
+    }
+}
