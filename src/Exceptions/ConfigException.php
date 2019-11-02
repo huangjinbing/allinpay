@@ -6,7 +6,7 @@
  * Time: 下午2:51
  */
 
-namespace TongLian\Allinpay\Exceptions;
+namespace Tonglian\Allinpay\Exceptions;
 
 use Throwable;
 

@@ -35,5 +35,5 @@
  * @link      http://phpseclib.sourceforge.net
  * @internal  See http://api.libssh.org/rfc/PROTOCOL.agent
  */
-namespace TongLian\Allinpay\SDK\System;
+namespace Tonglian\Allinpay\SDK\System;
 require_once 'SSH/Agent.php';

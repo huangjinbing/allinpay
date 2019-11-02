@@ -1,6 +1,6 @@
 <?php
 
-namespace TongLian\Allinpay\Helper;
+namespace Tonglian\Allinpay\Helper;
 
 class Tools
 {

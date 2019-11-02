@@ -5,9 +5,9 @@
  * @date 2019/9/5 15:34
  */
 
-namespace TongLian\Allinpay\Port;
+namespace Tonglian\Allinpay\Port;
 
-use TongLian\Allinpay\Requests\OrderRequest;
+use Tonglian\Allinpay\Requests\OrderRequest;
 
 class OrderService
 {

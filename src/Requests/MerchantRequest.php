@@ -1,6 +1,6 @@
 <?php
 
-namespace TongLian\Allinpay\Requests;
+namespace Tonglian\Allinpay\Requests;
 
 
 class MerchantRequest

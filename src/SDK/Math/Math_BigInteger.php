@@ -1,5 +1,5 @@
 <?php
-namespace TongLian\Allinpay\SDK\Math;
+namespace Tonglian\Allinpay\SDK\Math;
 /**
  * Pure-PHP arbitrary precision integer arithmetic library.
  *

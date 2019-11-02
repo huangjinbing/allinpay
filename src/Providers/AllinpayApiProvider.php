@@ -1,8 +1,8 @@
 <?php
 
-namespace TongLian\Allinpay\Providers;
+namespace Tonglian\Allinpay\Providers;
 
-use TongLian\Allinpay\Common\AllinpayClient;
+use Tonglian\Allinpay\Common\AllinpayClient;
 use Illuminate\Support\ServiceProvider;
 
 class AllinpayApiProvider extends ServiceProvider

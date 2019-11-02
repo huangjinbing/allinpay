@@ -1,5 +1,5 @@
 <?php
-namespace TongLian\Allinpay\SDK\Net\SFTP;
+namespace Tonglian\Allinpay\SDK\Net\SFTP;
 /**
  * SFTP Stream Wrapper
  *

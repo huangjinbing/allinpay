@@ -1,5 +1,5 @@
 <?php
-namespace TongLian\Allinpay\SDK\Crypt;
+namespace Tonglian\Allinpay\SDK\Crypt;
 /**
  * Pure-PHP implementation of RC2.
  *

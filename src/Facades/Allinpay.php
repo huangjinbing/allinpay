@@ -1,6 +1,6 @@
 <?php
 
-namespace TongLian\Allinpay\Facades;
+namespace Tonglian\Allinpay\Facades;
 
 
 use Illuminate\Support\Facades\Facade;
@@ -30,7 +30,7 @@ class Allinpay extends Facade
     public static function make($service, $method, $request)
     {
         $service = ucfirst($service);
-        $class = "\\TongLian\\Allinpay\\Port\\$service" . 'Service';
+        $class = "\\Tonglian\\Allinpay\\Port\\$service" . 'Service';
         return (new $class())->$method($request);
     }
 

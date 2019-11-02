@@ -1,8 +1,8 @@
 <?php
 
-namespace TongLian\Allinpay\SDK\File;
-use TongLian\Allinpay\SDK\Crypt\Crypt_RSA;
-use TongLian\Allinpay\SDK\Math\Math_BigInteger;
+namespace Tonglian\Allinpay\SDK\File;
+use Tonglian\Allinpay\SDK\Crypt\Crypt_RSA;
+use Tonglian\Allinpay\SDK\Math\Math_BigInteger;
 /**
  * Pure-PHP X.509 Parser
  *

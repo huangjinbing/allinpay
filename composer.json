@@ -1,5 +1,5 @@
 {
-    "name": "huangjinbing/allinpay",
+    "name": "tonglian/allinpay",
     "description": "how to develop a laravel package",
     "license": "MIT",
     "authors": [
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-           "TongLian\\Allinpay\\": "src/"
+           "Tonglian\\Allinpay\\": "src/"
         }
     }
 }

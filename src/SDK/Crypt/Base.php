@@ -1,5 +1,5 @@
 <?php
-namespace TongLian\Allinpay\SDK\Crypt;
+namespace Tonglian\Allinpay\SDK\Crypt;
 /**
  * Base Class for all Crypt_* cipher classes
  *
